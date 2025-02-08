@@ -1,2 +1,2 @@
 Blog 1: History of Space Exploration
-Blog 2: Proof of the 1955 Zero Height Conjecture by Richard Brauer
+Blog 2: Zero Height Conjecture by Richard Brauer
